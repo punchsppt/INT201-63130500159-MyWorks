@@ -49,10 +49,3 @@ console.log("sum credits : " + sumCredits + " credits") ;
  
 // 2.3
 
-
-
-
-
-
-
- 
