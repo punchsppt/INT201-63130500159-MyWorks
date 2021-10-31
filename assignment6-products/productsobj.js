@@ -1,0 +1,23 @@
+let products = [
+    { productId: p1,
+      productName: 'MINI TEAM WANG LOGO T-SHIRT',
+      price: 113.00},
+    { productId: p2,
+      productName: 'PALM ANGELS X TEAM WANG L/S T-SHIRT',
+      price: 460.00},
+    { productId: p3,
+      productName: 'PALM ANGELS X TEAM WANG NEW NEOPRENE TRACK JACKET',
+      price: 960.00},
+    { productId: p4,
+      productName: 'PALM ANGELS X TEAM WANG NEW NEOPRENE TRACK PANTS',
+      price: 845.00},
+    { productId: p5,
+      productName: 'PALM ANGELS X TEAM WANG S/S T-SHIRT',
+      price: 365.00},
+    { productId: p6,
+      productName: 'TEAM WANG BEANIE',
+      price: 65.00},
+    { productId: p7,
+      productName: 'TEAM WANG DRAWSTRING VELVET STRAIGHT PANT',
+      price: 202.00}
+  ];
