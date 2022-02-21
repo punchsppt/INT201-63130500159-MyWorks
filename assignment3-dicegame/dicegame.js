@@ -1,4 +1,4 @@
-
+// new comment
 const prompt = require('prompt-sync')();
 
 let player1 = { name: prompt('Insert Name Player1 : '), dice: { point: [] }, result: [], resultPoint: 0 }; //สร้างobject ที่เก็บ String, Object, Array และ Number
